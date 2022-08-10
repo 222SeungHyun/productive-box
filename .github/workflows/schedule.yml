@@ -13,5 +13,5 @@ jobs:
         uses: maxam2017/productive-box@master
         env:
           GH_TOKEN: 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
-          GIST_ID: 222SeungHyun
+          GIST_ID: c784d32a9ff9332b2b3aa28958ee6525
           TIMEZONE: Asia/Seoul
